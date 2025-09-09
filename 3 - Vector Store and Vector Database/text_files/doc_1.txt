@@ -1,0 +1,1 @@
+Deep learning is a subset of machine learning based on artificial neural networks with many layers.

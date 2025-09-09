@@ -1,0 +1,35 @@
+[project]
+name = "ultimate-rag-bootcamp"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "chromadb>=1.0.19",
+    "docx2txt>=0.9",
+    "faiss-cpu>=1.12.0",
+    "hf-xet>=1.1.7",
+    "jq>=1.10.0",
+    "langchain>=0.3.27",
+    "langchain-community>=0.3.27",
+    "langchain-experimental>=0.3.4",
+    "langchain-groq>=0.3.7",
+    "langchain-huggingface>=0.3.1",
+    "langchain-openai>=0.3.30",
+    "langchain-tavily>=0.2.11",
+    "langgraph>=0.6.6",
+    "matplotlib>=3.10.5",
+    "msoffcrypto-tool>=5.4.2",
+    "openpyxl>=3.1.5",
+    "pandas>=2.3.1",
+    "pymupdf>=1.26.3",
+    "pypdf>=6.0.0",
+    "python-docx>=1.2.0",
+    "python-dotenv>=1.1.1",
+    "rank-bm25>=0.2.2",
+    "sentence-transformers>=5.1.0",
+    "tiktoken>=0.11.0",
+    "unstructured[docx]>=0.18.13",
+    "wikipedia>=1.4.0",
+    "yfinance>=0.2.65",
+]
