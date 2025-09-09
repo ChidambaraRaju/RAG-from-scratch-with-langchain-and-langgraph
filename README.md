@@ -1,4 +1,4 @@
-# RAG-from-Scratch-with-LangChain-and-LangGraph
+# RAG from Scratch with LangChain and LangGraph
 
 <p align="center">
   <img src="Assets/logo.png" alt="RAG Image" width="500">
@@ -84,8 +84,8 @@ This is where we move beyond linear pipelines into dynamic, intelligent systems.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/RAG-from-Scratch-with-LangChain-and-LangGraph.git](https://github.com/your-username/RAG-from-Scratch-with-LangChain-and-LangGraph.git)
-    cd RAG-from-Scratch-with-LangChain-and-LangGraph
+    git clone https://github.com/ChidambaraRaju/RAG-from-scratch-with-langchain-and-langgraph.git
+    cd RAG-from-scratch-with-langchain-and-langgraph.git
     ```
 
 2.  **Set up a virtual environment:**
@@ -119,6 +119,6 @@ This is where we move beyond linear pipelines into dynamic, intelligent systems.
 
 ## Acknowledgements
 
-This repository and the content within the notebooks were created by following and building upon the concepts taught in the **"Ultimate RAG Bootcamp Using LangChain,LangGraph&LangSmith"** course on Udemy. A huge thank you to [Krish Naik](https://github.com/krishnaik06) for providing a comprehensive and practical guide to building advanced RAG systems.
+This repository and the content within the notebooks were created by following and building upon the concepts taught in the **"Ultimate RAG Bootcamp Using LangChain,LangGraph&LangSmith"** course on Udemy. A huge thanks to [Krish Naik](https://github.com/krishnaik06) for providing a comprehensive and practical guide to building advanced RAG systems.
 
 You can find the course here: [Udemy - Ultimate RAG Bootcamp](https://www.udemy.com/course/ultimate-rag-bootcamp-using-langchainlanggraph-langsmith/)
