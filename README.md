@@ -1,7 +1,7 @@
 # RAG-from-Scratch-with-LangChain-and-LangGraph
 
 <p align="center">
-  <img src="assets/logo.png" alt="RAG Image" width="500">
+  <img src="Assets/logo.png" alt="RAG Image" width="500">
 </p>
 
 <p align="center">
