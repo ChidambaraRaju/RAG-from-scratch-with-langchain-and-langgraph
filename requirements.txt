@@ -25,3 +25,4 @@ hf_xet
 langgraph
 yfinance
 langchain-tavily
+langsmith
