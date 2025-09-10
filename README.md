@@ -78,6 +78,12 @@ This is where we move beyond linear pipelines into dynamic, intelligent systems.
     * `1_Agentic_RAG.ipynb`: Building an agent that can intelligently choose the correct retrieval tool from multiple options based on the user's query.
     * `1_Corrective_RAG.ipynb`: Creating an advanced, self-correcting agent that can grade the relevance of retrieved documents and fall back to web search if its initial retrieval fails.
 
+
+### Section 9: RAG Evaluation
+Building a RAG system is only half the battle. How do you know if it's actually working well, and how can you measure improvements? This final section covers the critical process of RAG evaluation. You will learn how to create test datasets and use automated, LLM-powered evaluators to measure the performance of your application on key metrics.
+
+* **Notebooks**:
+    * `1_RAG_Evaluation.ipynb`: Learn to use **LangSmith** to create evaluation datasets. Implement the **"LLM-as-a-Judge"** pattern to automatically score your RAG pipeline's performance on **correctness, relevance, groundedness,** and **retrieval relevance**.
 ---
 
 ## 🚀 Getting Started
